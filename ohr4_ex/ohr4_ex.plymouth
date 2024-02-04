@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=ohr4_ex
+Description=A custom plymouth theme concacenated from others
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/ohr4_ex/.
+ScriptFile=/usr/share/plymouth/themes/ohr4_ex/ohr4_ex.script
